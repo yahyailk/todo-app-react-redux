@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-folder_to_ignore/screenshots
+screenshots/
 
 # dependencies
 /node_modules
@@ -22,3 +22,4 @@ folder_to_ignore/screenshots
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
